@@ -25,7 +25,6 @@ body{
 h1{
     font-size: 22px;
     margin: 10px 0 5px;
-    color: green;
 }
 .location{
     color: b3e11f;
@@ -52,3 +51,5 @@ h1{
 .links a:hover{
     background-color: #555;
 }
+p.location{
+    color:#13d620;
